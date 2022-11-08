@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="public/projetoImg.jpg">
+  <img alt="License" src="public/ProjetoImg.jpg">
 </p>
 
 ## 🚀 Tecnologias
