@@ -14,9 +14,9 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
--ReactJS
--Typescript
--StoryBook
+-ReactJS <br>
+-Typescript <br>
+-StoryBook <br>
 -Styled-components
 
 
